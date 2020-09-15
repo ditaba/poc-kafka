@@ -25,7 +25,7 @@ npm link
 ## Start consumer
 
 ```
-node consumer.js
+node server/consumer.js
 ```
 
 ## Excute client `index.html` on Browser

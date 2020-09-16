@@ -42,5 +42,5 @@ Make sure you executed `npm link` orthe following may not work.
 # cli man page
 kafka-publish -h
 # send message on the test topic
-kafka-publish -t test "Foo bar"
+kafka-publish -t test "1"
 ```

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /**
  * CLI tool to publish messages to Kafka topics
  */
